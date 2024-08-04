@@ -1,0 +1,33 @@
+.main-container{
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    color: grey;
+    background-color: black;
+    
+}
+.images-container{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.image{
+    width: 200px;
+    border-radius: 6px;
+    border: 2px solid grey;
+    margin: 15px;
+
+}
+
+.imgs{
+    height: 200px;
+    width: 200px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+p{
+    margin-left: 5px;
+}
