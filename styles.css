@@ -24,13 +24,32 @@
 
 }
 
-.imgs{
+.second{
+    color: white;
+    background-color: black;
+    height: 100vh;
+    padding: 10px;
+    font-family: Roboto;
+}
+.second-image{
     height: 200px;
-    width: 198px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.imgs{
+    height: 230px;
+    width: 200px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
 p{
     margin-left: 5px;
     padding: 2px;
+}
+.btns{
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    background-color: transparent;
 }
